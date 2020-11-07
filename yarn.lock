@@ -5741,10 +5741,10 @@ https@^1.0.0:
   resolved "https://registry.yarnpkg.com/https/-/https-1.0.0.tgz#3c37c7ae1a8eeb966904a2ad1e975a194b7ed3a4"
   integrity sha1-PDfHrhqO65ZpBKKtHpdaGUt+06Q=
 
-hugo-bin@0.59.1:
-  version "0.59.1"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.59.1.tgz#96683a522563ead42a3dd44f93dc18aa6091ce34"
-  integrity sha512-mPKgNTuvqIo98xoRYKbKxdhv+yANSDziB+6PHvPG1BHJ6pAuhi/73r21ywbAmEnAsir4gQTtkge9kXse3FvTeA==
+hugo-bin@0.64.5:
+  version "0.64.5"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.64.5.tgz#34c9c7b3fa7fdb95009f2ae371798b315ab1c5eb"
+  integrity sha512-bZbLB87E/S8uNwnD6Hio2Q+8HXkBlXsXG8LFS41YyTuAPINw7m64K7VaoSsLu5NYQBzE1jwLhNYlb4KwoYLD0g==
   dependencies:
     bin-wrapper "^4.1.0"
     pkg-conf "^3.1.0"
@@ -10392,10 +10392,10 @@ slice-ansi@^2.1.0:
     astral-regex "^1.0.0"
     is-fullwidth-code-point "^2.0.0"
 
-slugify@^1.4.5:
-  version "1.4.5"
-  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.4.5.tgz#a7517acf5f4c02a4df41e735354b660a4ed1efcf"
-  integrity sha512-WpECLAgYaxHoEAJ8Q1Lo8HOs1ngn7LN7QjXgOLbmmfkcWvosyk4ZTXkTzKyhngK640USTZUlgoQJfED1kz5fnQ==
+slugify@^1.4.6:
+  version "1.4.6"
+  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.4.6.tgz#ef288d920a47fb01c2be56b3487b6722f5e34ace"
+  integrity sha512-ZdJIgv9gdrYwhXqxsH9pv7nXxjUEyQ6nqhngRxoAAOlmMGA28FDq5O4/5US4G2/Nod7d1ovNcgURQJ7kHq50KQ==
 
 snapdragon-node@^2.0.1:
   version "2.1.1"
