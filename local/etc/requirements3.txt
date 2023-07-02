@@ -7,10 +7,10 @@ cffi==1.14.0
 cssutils>=1.0.0
 htmlmin>=0.1.10
 pycparser==2.14
-awscli==1.18.27
+awscli==1.27.90
 requests==2.23.0
 PyYAML==5.3.1
 tqdm==4.43.0
-Pygments==2.6.1
+Pygments==2.15.0
 datadog==0.35.0
-markdown2==2.3.8
+markdown2==2.4.4
