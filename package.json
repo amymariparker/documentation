@@ -78,7 +78,7 @@
         "tiny-async-pool": "^1.0.4",
         "translate": "https://s3.amazonaws.com/origin-static-assets/corp-node-packages/master/translate-v1.0.37.tgz",
         "traverse": "0.6.6",
-        "webpack": "^4.42.1",
+        "webpack": "^5.0.0",
         "yaml-lint": "^1.2.4"
     },
     "devDependencies": {
