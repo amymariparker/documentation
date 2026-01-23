@@ -63,7 +63,7 @@
         "lazypipe": "1.0.2",
         "lazysizes": "4.0.1",
         "link-checker": "https://s3.amazonaws.com/origin-static-assets/corp-node-packages/zach/update-linkchecker/link-checker-v1.0.73.tgz",
-        "lodash": "^4.17.20",
+        "lodash": "^4.17.23",
         "marked": "^1.2.2",
         "merge-stream": "2.0.0",
         "minimist": "^1.2.5",
@@ -76,9 +76,9 @@
         "slugify": "^1.4.6",
         "stickyfilljs": "2.1.0",
         "tiny-async-pool": "^1.0.4",
-        "translate": "https://s3.amazonaws.com/origin-static-assets/corp-node-packages/master/translate-v1.0.37.tgz",
+        "translate": "1.1.0",
         "traverse": "0.6.6",
-        "webpack": "^4.42.1",
+        "webpack": "^5.0.0",
         "yaml-lint": "^1.2.4"
     },
     "devDependencies": {
